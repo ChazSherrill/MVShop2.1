@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MVConnectionString":  "server=(localdb)\\ProjectsV13;Database=MVDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}
